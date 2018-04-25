@@ -1,6 +1,6 @@
+# coding=utf-8
 import numpy as np
 import tensorflow as tf
-import os
 
 
 class DNC:
@@ -350,12 +350,66 @@ class DNC:
         # return output + read vecs product
         return self.nn_out + read_vec_mut
 
+    # output list of numbers (one hot encoded) by running the step function
+    def run(self):
+        big_out = []
+        for t, seq in enumerate(tf.unstack(self.i_data, axis=0)):
+            seq = tf.expand_dims(seq, 0)
+            y = self.step_m(seq)
+            big_out.append(y)
+        return tf.stack(big_out, axis=0)
 
-# output list of numbers (one hot encoded) by running the step function
-def run(self):
-    big_out = []
-    for t, seq in enumerate(tf.unstack(self.i_data, axis=0)):
-        seq = tf.expand_dims(seq, 0)
-        y = self.step_m(seq)
-        big_out.append(y)
-    return tf.stack(big_out, axis=0)
+
+def main(argv=None):
+    # generate the input output sequences, randomly intialized
+    num_seq = 10
+    seq_len = 6
+    seq_width = 4
+    iterations = 1000
+    con = np.random.randint(0, seq_width, size=seq_len)
+    seq = np.zeros((seq_len, seq_width))
+    seq[np.arange(seq_len), con] = 1
+    end = np.asarray([[-1] * seq_width])
+    zer = np.zeros((seq_len, seq_width))
+
+    graph = tf.Graph()
+
+    with graph.as_default():
+        # training time
+        with tf.Session() as sess:
+            # init the DNC
+            dnc = DNC(input_size=seq_width, output_size=seq_width, seq_len=seq_len, num_words=10, word_size=4,
+                      num_heads=1)
+
+            # calculate the predicted output
+            output = tf.squeeze(dnc.run())
+            # compare prediction to reality, get loss via sigmoid cross entropy
+            loss = tf.reduce_mean(tf.nn.sigmoid_cross_entropy_with_logits(logits=output, labels=dnc.o_data))
+            # use regularizers for each layer of the controller
+            regularizers = (tf.nn.l2_loss(dnc.W1) + tf.nn.l2_loss(dnc.W2) +
+                            tf.nn.l2_loss(dnc.b1) + tf.nn.l2_loss(dnc.b2))
+            # to help the loss convergence faster
+            loss += 5e-4 * regularizers
+            # optimize the entire thing (memory + controller) using gradient descent. dope
+            optimizer = tf.train.AdamOptimizer(learning_rate=0.001).minimize(loss)
+
+            # initialize input output pairs
+            tf.initialize_all_variables().run()
+            final_i_data = np.concatenate((seq, zer), axis=0)
+            final_o_data = np.concatenate((zer, seq), axis=0)
+            # for each iteration
+            for i in range(0, iterations + 1):
+                # feed in each input output pair
+                feed_dict = {dnc.i_data: final_i_data, dnc.o_data: final_o_data}
+                # make predictions
+                l, _, predictions = sess.run([loss, optimizer, output], feed_dict=feed_dict)
+                if i % 100 == 0:
+                    print(i, l)
+            # print results
+            print(final_i_data)
+            print(final_o_data)
+            print(predictions)
+
+
+if __name__ == '__main__':
+    tf.app.run()
