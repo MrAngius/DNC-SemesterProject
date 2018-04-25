@@ -1,3 +1,3 @@
-./code_base/.idea
-./code_base/.*
-./code_base/venv
+/code_base/.idea
+/code_base/.*
+/code_base/venv
