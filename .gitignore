@@ -3,3 +3,6 @@
 /code_base/venv
 .*
 Icon?
+*.pyc
+/nx/dnc/*
+/tf/dnc/*
