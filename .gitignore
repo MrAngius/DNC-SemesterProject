@@ -6,3 +6,8 @@ Icon?
 *.pyc
 /nx/dnc/*
 /tf/dnc/*
+/variables
+/variables/*
+/datasets
+/datasets/*
+
