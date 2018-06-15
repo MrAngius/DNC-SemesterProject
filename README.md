@@ -5,9 +5,10 @@
 The goals of the project are: 
 - [x] explore the architecture of DNCs
 - [x] define a base code for running simulations
-- <del>[ ] possible create a pytorch version of the code</del>
-- [x] try to implement the graph task 
-- [ ] map the graph task to an application   
+- <del>possible create a pytorch version of the code</del>
+- [x] try to implement the graph tasks
+- [x] map the graph task to an application   
+
 
 The project is based on the article of [DeepMind](https://deepmind.com/blog/differentiable-neural-computers/) and 
 the code available [here](https://github.com/deepmind/dnc).
