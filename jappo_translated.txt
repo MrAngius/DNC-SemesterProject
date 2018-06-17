@@ -1,0 +1,2516 @@
+recipe
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+####
+amaebi fry
+shrimp
+kataifi pasta
+teriyaki sauce
+spicy mayonnaise
+
+
+
+
+
+
+
+
+
+
+
+####
+nori edamame
+soya
+nori algae
+shichimi
+
+
+
+
+
+
+
+
+
+
+
+
+####
+miso soup
+soup
+nori algae
+tofu
+
+
+
+
+
+
+
+
+
+
+
+
+####
+osumashi
+soup
+nori algae
+asparagus
+
+
+
+
+
+
+
+
+
+
+
+
+####
+shrimp-salmon
+Tempura
+shrimp
+philadelphia
+salmon
+tobiko
+teriyaki sauce
+
+
+
+
+
+
+
+
+
+####
+suzuki-sukampi
+scampi
+shiso leaf
+philadelphia
+branzino
+yuzu sauce
+wasabi
+caviar
+
+
+
+
+
+
+
+
+####
+Sake-royal
+crab
+avocado
+salmon
+spicy mayonnaise
+tobiko
+
+
+
+
+
+
+
+
+
+
+####
+Sake-pineapple
+pineapple
+Tempura
+shrimp
+salmon
+teriyaki sauce
+almonds
+
+
+
+
+
+
+
+
+
+####
+shiso
+vegetables
+Tempura
+shiso leaf
+tapioca flour
+rice
+miso sauce
+
+
+
+
+
+
+
+
+
+####
+sake tataki
+salmon
+sesame
+chef's sauce
+
+
+
+
+
+
+
+
+
+
+
+
+####
+maguro tataki
+tuna
+sesame
+chef's sauce
+
+
+
+
+
+
+
+
+
+
+
+
+####
+hamachi tataki
+yellowtail
+pistachio
+ponzu sauce
+
+
+
+
+
+
+
+
+
+
+
+
+####
+salmon tartar
+salmon
+avocado
+sesame
+chef's sauce
+
+
+
+
+
+
+
+
+
+
+
+####
+tuna tartar
+tuna
+avocado
+sesame
+chef's sauce
+
+
+
+
+
+
+
+
+
+
+
+####
+natsu tartar
+shrimp
+salmon
+tomato
+avocado
+chef's sauce
+
+
+
+
+
+
+
+
+
+
+####
+amaebi tartar
+shrimp
+yuzu sauce
+wasabi
+salad
+
+
+
+
+
+
+
+
+
+
+
+####
+special karupatcho
+shrimp
+scampi
+salmon
+ponzu sauce
+
+
+
+
+
+
+
+
+
+
+
+####
+wagyu karupatcho
+beef
+oil
+ponzu sauce
+
+
+
+
+
+
+
+
+
+
+
+
+####
+hamachi zukuri
+yellowtail
+tomato
+wasabi
+ponzu sauce
+
+
+
+
+
+
+
+
+
+
+
+####
+sake zukuri
+salmon
+tobiko
+sesame
+ponzu sauce
+
+
+
+
+
+
+
+
+
+
+
+####
+sake hanamaki
+rice
+salmon
+spicy mayonnaise
+
+
+
+
+
+
+
+
+
+
+
+
+####
+maguro hanamaki
+rice
+tuna
+spicy mayonnaise
+
+
+
+
+
+
+
+
+
+
+
+
+####
+sake futomaki
+rice
+salmon
+avocado
+crab
+cucumber
+
+
+
+
+
+
+
+
+
+
+####
+tekka futomaki
+rice
+tuna
+avocado
+crab
+cucumber
+
+
+
+
+
+
+
+
+
+
+####
+quail hanamaki
+rice
+salmon
+quail eggs
+chives
+ponzu sauce
+truffle oil
+
+
+
+
+
+
+
+
+
+####
+kasai
+rice
+salmon
+philadelphia
+strawberry
+
+
+
+
+
+
+
+
+
+
+
+####
+royal hanamaki
+rice
+salmon
+crab
+mayonnaise
+tobiko
+
+
+
+
+
+
+
+
+
+
+####
+hanamaki roses
+rice
+yellowtail
+scampi
+avocado
+spicy mayonnaise
+
+
+
+
+
+
+
+
+
+
+####
+s? mon no hara hanamaki
+rice
+salmon
+caviar
+
+
+
+
+
+
+
+
+
+
+
+
+####
+foie-gras hanamaki
+salmon
+rice
+shrimp
+Foie gras
+
+
+
+
+
+
+
+
+
+
+
+####
+sake ikura hanamaki
+salmon
+rice
+salmon roe
+
+
+
+
+
+
+
+
+
+
+
+
+####
+tobiko gunkan
+rice
+branzino
+flying fish roe
+
+
+
+
+
+
+
+
+
+
+
+
+####
+sake temaki
+nori algae
+salmon
+avocado
+cheese
+
+
+
+
+
+
+
+
+
+
+
+####
+maguro temaki
+nori algae
+tuna
+avocado
+cheese
+
+
+
+
+
+
+
+
+
+
+
+####
+lobster temaki
+lobster
+nori algae
+salad
+tomato
+mayonnaise
+tobiko
+
+
+
+
+
+
+
+
+
+####
+royal temaki
+nori algae
+crab
+avocado
+mayonnaise
+
+
+
+
+
+
+
+
+
+
+
+####
+california temaki
+nori algae
+crab
+avocado
+cucumber
+mayonnaise
+tobiko
+
+
+
+
+
+
+
+
+
+####
+ebiten temaki
+nori algae
+shrimp
+salad
+mayonnaise
+teriyaki sauce
+
+
+
+
+
+
+
+
+
+
+####
+vegan temaki
+nori algae
+tomato
+avocado
+salad
+cucumber
+sesame
+miso sauce
+
+
+
+
+
+
+
+
+####
+oyako temaki
+nori algae
+salmon
+salmon roe
+mayonnaise
+shiso leaf
+
+
+
+
+
+
+
+
+
+
+####
+sake roll
+rice
+nori algae
+salmon
+avocado
+cheese
+sesame
+
+
+
+
+
+
+
+
+
+####
+maguro roll
+rice
+nori algae
+tuna
+avocado
+cheese
+sesame
+
+
+
+
+
+
+
+
+
+####
+ebi ten
+rice
+nori algae
+shrimp
+salad
+cheese
+teriyaki sauce
+sesame
+kataifi pasta
+
+
+
+
+
+
+
+####
+miura maki
+rice
+nori algae
+salmon
+Tempura
+cheese
+sesame
+peanuts
+teriyaki sauce
+
+
+
+
+
+
+
+####
+rainbow
+rice
+nori algae
+salmon
+cucumber
+cheese
+avocado
+
+
+
+
+
+
+
+
+
+####
+California
+rice
+nori algae
+crab
+shrimp
+avocado
+cucumber
+mayonnaise
+sesame
+tobiko
+
+
+
+
+
+
+####
+Vegan
+rice
+nori algae
+vegetables
+sesame
+miso sauce
+almonds
+
+
+
+
+
+
+
+
+
+####
+tori roll
+rice
+nori algae
+chicken
+spices
+Japanese bread
+cucumber
+sesame
+spicy mayonnaise
+
+
+
+
+
+
+
+####
+tiger roll
+rice
+nori algae
+Tempura
+shrimp
+salad
+salmon
+ikura
+
+
+
+
+
+
+
+
+####
+futomaki mix
+rice
+nori algae
+salmon
+salad
+tobiko
+
+
+
+
+
+
+
+
+
+
+####
+yasai futo
+rice
+nori algae
+vegetables
+Tempura
+soya
+miso sauce
+almonds
+
+
+
+
+
+
+
+
+####
+lobster roll
+rice
+nori algae
+lobster
+avocado
+mayonnaise
+tomato
+tobiko
+wasabi
+
+
+
+
+
+
+
+####
+royal crab roll
+rice
+nori algae
+crab
+avocado
+mayonnaise
+sesame
+tobiko
+
+
+
+
+
+
+
+
+####
+mazara roll
+rice
+nori algae
+shrimp
+salad
+avocado
+
+
+
+
+
+
+
+
+
+
+####
+alaska
+rice
+nori algae
+salmon
+spicy sauce
+chives
+tobiko
+
+
+
+
+
+
+
+
+
+####
+yume roll
+rice
+nori algae
+courgette flowers
+shrimp
+zucchini
+mayonnaise
+
+
+
+
+
+
+
+
+
+####
+scampi roll
+rice
+nori algae
+scampi
+avocado
+tobiko
+
+
+
+
+
+
+
+
+
+
+####
+hotate kai
+rice
+nori algae
+scallops
+mayonnaise
+avocado
+tobiko
+mango
+sesame
+mango sauce
+
+
+
+
+
+
+####
+black ebi ten
+rice
+nori algae
+sepia ink
+shrimp
+salad
+Tempura
+cheese
+teriyaki sauce
+sesame
+kataifi pasta
+
+
+
+
+
+####
+special ebi ten
+rice
+nori algae
+Tempura
+shrimp
+cheese
+salad
+salmon
+kataifi pasta
+teriyaki sauce
+
+
+
+
+
+
+####
+salmon fume '
+rice
+nori algae
+salmon
+avocado
+pistachio
+
+
+
+
+
+
+
+
+
+
+####
+vulcan roll
+rice
+nori algae
+salmon
+cheese
+salad
+sesame
+tobiko
+spicy mayonnaise
+
+
+
+
+
+
+
+####
+salmon cream cheese
+rice
+nori algae
+salmon
+cheese
+avocado
+
+
+
+
+
+
+
+
+
+
+####
+tuna cream cheese
+rice
+nori algae
+tuna
+cheese
+avocado
+
+
+
+
+
+
+
+
+
+
+####
+unagi roll
+rice
+nori algae
+eel
+sesame
+avocado
+kabayaki sauce
+
+
+
+
+
+
+
+
+
+####
+pineapple roll
+rice
+nori algae
+pineapple
+Tempura
+shrimp
+salmon
+teriyaki sauce
+almonds
+
+
+
+
+
+
+
+####
+tropical tuna
+rice
+nori algae
+tuna
+avocado
+shrimp
+sesame
+mango
+mango sauce
+
+
+
+
+
+
+
+####
+fried maki
+rice
+nori algae
+Tempura
+salmon
+cheese
+daikon
+teriyaki sauce
+peanuts
+
+
+
+
+
+
+
+####
+kataifi nest
+rice
+nori algae
+kataifi pasta
+salmon
+
+
+
+
+
+
+
+
+
+
+
+####
+yaki udon
+spaghetti
+shrimp
+vegetables
+soya
+
+
+
+
+
+
+
+
+
+
+
+####
+yaki soba
+spaghetti
+white fish
+vegetables
+eggs
+
+
+
+
+
+
+
+
+
+
+
+####
+amaebi ramen
+spaghetti
+shrimp
+vegetables
+
+
+
+
+
+
+
+
+
+
+
+
+####
+sake meshi
+rice
+salmon
+vegetables
+eggs
+
+
+
+
+
+
+
+
+
+
+
+####
+yasai meshi
+rice
+eggs
+vegetables
+
+
+
+
+
+
+
+
+
+
+
+
+####
+ebi meshi
+rice
+shrimp
+vegetables
+eggs
+
+
+
+
+
+
+
+
+
+
+
+####
+sake-foie-gras nigiri
+rice
+salmon
+Foie gras
+
+
+
+
+
+
+
+
+
+
+
+
+####
+toriyaki bulls
+chicken
+sesame
+soya
+
+
+
+
+
+
+
+
+
+
+
+
+####
+beef asparagus
+beef
+asparagus
+chef's sauce
+
+
+
+
+
+
+
+
+
+
+
+
+####
+yaki asparagus
+asparagus
+miso sauce
+sesame
+
+
+
+
+
+
+
+
+
+
+
+
+####
+chicken katsudon
+chicken
+eggs
+rice
+
+
+
+
+
+
+
+
+
+
+
+
+####
+tori udon
+spaghetti
+chicken
+vegetables
+
+
+
+
+
+
+
+
+
+
+
+
+####
+yasai temaki
+nori algae
+cucumber
+avocado
+
+
+
+
+
+
+
+
+
+
+
+
+####
+sushi jo
+rice
+salmon
+tobiko
+
+
+
+
+
+
+
+
+
+
+
+
+####
+sake avocado
+rice
+salmon
+avocado
+
+
+
+
+
+
+
+
+
+
+
+
+####
+philadelphia
+rice
+salmon
+philadelphia
+
+
+
+
+
+
+
+
+
+
+
+
+####
+sake mango
+rice
+salmon
+mango
+
+
+
+
+
+
+
+
+
+
+
+
+####
+ebitem
+rice
+shrimp
+crab
+
+
+
+
+
+
+
+
+
+
+
+
+####
+special ebitem
+rice
+shrimp
+philadelphia
+
+
+
+
+
+
+
+
+
+
+
+
+####
+yasai
+rice
+avocado
+cucumber
+
+
+
+
+
+
+
+
+
+
+
+
+####
+geisha
+rice
+salmon
+tuna
+crab
+
+
+
+
+
+
+
+
+
+
+
+####
+hayashi tartar
+tuna
+Tempura
+flying fish roe
+mango
+
+
+
+
+
+
+
+
+
+
+
+####
+ebi tempura maki
+rice
+nori algae
+shrimp
+Tempura
+tobiko
+sesame
+
+
+
+
+
+
+
+
+
+####
+sake ebiten uramak
+rice
+nori algae
+shrimp
+sesame
+Tempura
+salmon
+
+
+
+
+
+
+
+
+
+####
+avocado ebiten uramaki
+rice
+nori algae
+shrimp
+sesame
+avocado
+
+
+
+
+
+
+
+
+
+
+####
+california classic
+rice
+nori algae
+salmon
+avocado
+cucumber
+surimi
+sesame
+tobiko
+
+
+
+
+
+
+
+####
+soft shell crab maki
+rice
+nori algae
+crab
+Tempura
+tobiko
+sesame
+
+
+
+
+
+
+
+
+
+####
+sake teppayaki maki
+rice
+nori algae
+salmon
+philadelphia
+sesame
+tobiko
+
+
+
+
+
+
+
+
+
+####
+sake philadelphia maki
+rice
+nori algae
+salmon
+philadelphia
+sesame
+
+
+
+
+
+
+
+
+
+
+####
+sake avocado maki
+rice
+nori algae
+salmon
+avocado
+sesame
+
+
+
+
+
+
+
+
+
+
+####
+spicy tuna roll
+rice
+nori algae
+tuna
+tobiko
+sesame
+spices
+
+
+
+
+
+
+
+
+
+####
+spicy salmon roll
+rice
+nori algae
+salmon
+tobiko
+sesame
+spices
+
+
+
+
+
+
+
+
+
+####
+rainbow roll
+rice
+nori algae
+salmon
+avocado
+surimi
+sesame
+
+
+
+
+
+
+
+
+
+####
+avocado spider maki
+rice
+nori algae
+crab
+avocado
+
+
+
+
+
+
+
+
+
+
+
+####
+sake sakura maki
+rice
+nori algae
+salmon
+avocado
+tobiko
+shrimp
+surimi
+
+
+
+
+
+
+
+
+####
+I love uramaki
+rice
+nori algae
+sesame
+almonds
+philadelphia
+avocado
+salmon
+
+
+
+
+
+
+
+
+####
+sake dragon uramaki
+rice
+nori algae
+sesame
+salmon
+philadelphia
+avocado
+potatoes
+
+
+
+
+
+
+
+
+####
+hotate uramaki
+rice
+nori algae
+sesame
+scallops
+wasabi
+cucumber
+shrimp
+Pine nuts
+ginger
+
+
+
+
+
+
+####
+maguro tataki uramaki
+rice
+nori algae
+sesame
+tuna
+cucumber
+shrimp
+avocado
+ginger
+
+
+
+
+
+
+
+####
+sake kawa maki
+rice
+nori algae
+sesame
+salmon
+avocado
+shrimp
+surimi
+
+
+
+
+
+
+
+
+####
+vulcan urmaki
+rice
+nori algae
+sesame
+tuna
+Tempura
+spices
+
+
+
+
+
+
+
+
+
+####
+unagi uramaki
+rice
+nori algae
+sesame
+eel
+
+
+
+
+
+
+
+
+
+
+
+####
+maguro uramaki
+rice
+nori algae
+sesame
+tuna
+spices
+
+
+
+
+
+
+
+
+
+
+####
+suzuki uramakia
+rice
+nori algae
+sesame
+shrimp
+avocado
+surimi
+sea ​​bass
+
+
+
+
+
+
+
+
+####
+crispy uramaki
+rice
+nori algae
+sesame
+shrimp
+avocado
+sea ​​bass
+
+
+
+
+
+
+
+
+
+####
+strawberry maki
+rice
+nori algae
+sesame
+salmon
+philadelphia
+strawberry
+
+
+
+
+
+
+
+
+
+####
+sake avocado salad
+salad
+salmon
+avocado
+
+
+
+
+
+
+
+
+
+
+
+
+####
+maguro on
+tuna
+nori algae
+ponzu sauce
+
+
+
+
+
+
+
+
+
+
+
+
+####
+sake on
+salmon
+nori algae
+ponzu sauce
+
+
+
+
+
+
+
+
+
+
+
+
+####
+salmon tartare
+salmon
+salad
+ponzu sauce
+
+
+
+
+
+
+
+
+
+
+
+
+####
+tartare
+tuna
+salad
+ponzu sauce
+
+
+
+
+
+
+
+
+
+
+
+
+####
+tartare mix
+salmon
+salad
+ponzu sauce
+tuna
+
+
+
+
+
+
+
+
+
+
+
+####
+tartare special sun
+salmon
+avocado
+shrimp
+tomato
+ponzu sauce
+
+
+
+
+
+
+
+
+
+
+####
+temaki sake
+rice
+nori algae
+salmon
+avocado
+mayonnaise
+
+
+
+
+
+
+
+
+
+
+####
+age tori temaki
+rice
+nori algae
+chicken
+cucumber
+spicy sauce
+
+
+
+
+
+
+
+
+
+
+####
+tobiko temaki
+rice
+nori algae
+tobiko
+surimi
+avocado
+mayonnaise
+
+
+
+
+
+
+
+
+
+####
+sake rose temaki
+rice
+nori algae
+soya
+salmon
+avocado
+mayonnaise
+
+
+
+
+
+
+
+
+
+####
+green dragon roll
+rice
+Tempura
+shrimp
+salad
+mayonnaise
+avocado
+teriyaki sauce
+crunch
+
+
+
+
+
+
+
+####
+crunch tuna roll
+rice
+tuna
+avocado
+peanuts
+mayonnaise
+
+
+
+
+
+
+
+
+
+
+####
+sandwich
+salmon
+avocado
+philadelphia
+crunch
+
+
+
+
+
+
+
+
+
+
+
+####
+ura love
+rice
+surimi
+avocado
+philadelphia
+salmon
+
+
+
+
+
+
+
+
+
+
+####
+sushi sun roll
+salmon
+rice
+avocado
+philadelphia
+mint
+almonds
+teriyaki sauce
+
+
+
+
+
+
+
+
+####
+rainbow escape
+rice
+scampi
+green beans
+salmon
+tuna
+avocado
+tobiko
+spicy sauce
+
+
+
+
+
+
+
+####
+avocado tuna
+rice
+tuna
+avocado
+philadelphia
+spicy sauce
+salad
+teriyaki sauce
+
+
+
+
+
+
+
+
+####
+scallop roll
+rice
+surimi
+avocado
+scallops
+teriyaki sauce
+
+
+
+
+
+
+
+
+
+
+####
+exotic ebiten
+rice
+Tempura
+shrimp
+salad
+philadelphia
+mango sauce
+mango
+
+
+
+
+
+
+
+
+####
+special tuna
+rice
+avocado
+philadelphia
+tuna
+pistachio
+rocket salad
+
+
+
+
+
+
+
+
+
+####
+pink futomaki
+salmon
+rice
+shrimp
+salad
+philadelphia
+green beans
+tobiko
+soya
+pistachio
+
+
+
+
+
+
+####
+hana sun
+salmon
+cucumber
+rocket salad
+shrimp
+ponzu sauce
+
+
+
+
+
+
+
+
+
+
+####
+sake gunkan
+nori algae
+salmon
+mayonnaise
+
+
+
+
+
+
+
+
+
+
+
+
+####
+spicy salmon gunkan
+nori algae
+salmon
+mayonnaise
+Tabasco
+
+
+
+
+
+
+
+
+
+
+
+####
+tuna gunkan
+nori algae
+tuna
+mayonnaise
+
+
+
+
+
+
+
+
+
+
+
+
+####
+spicy tuna gunkan
+nori algae
+tuna
+mayonnaise
+Tabasco
+
+
+
+
+
+
+
+
+
+
+
+####
+cucumber gunkan salmon
+nori algae
+rice
+cucumber
+salmon
+
+
+
+
+
+
+
+
+
+
+
+####
+cucumber tuna gunkan
+nori algae
+rice
+cucumber
+tuna
+
+
+
+
+
+
+
+
+
+
+
+####
+nabe yaki noodles
+spaghetti
+eggs
+vegetables
+Tempura
+shrimp
+
+
+
+
+
+
+
+
+
+
+####
+niku noodles
+spaghetti
+beef
+vegetables
+
+
+
+
+
+
+
+
+
+
+
+
+####
+tori ramen
+spaghetti
+chicken
+vegetables
+eggs
+
+
+
+
+
+
+
+
+
+
+
+####

@@ -1,0 +1,2516 @@
+recipe
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+####
+amaebi fry
+gamberi
+pasta kataifi
+salsa teriyaki
+maionese piccante
+
+
+
+
+
+
+
+
+
+
+
+####
+nori edamame
+soya
+alga nori
+shichimi
+
+
+
+
+
+
+
+
+
+
+
+
+####
+miso soup
+zuppa
+alga nori
+tofu
+
+
+
+
+
+
+
+
+
+
+
+
+####
+osumashi
+zuppa
+alga nori
+asparagi
+
+
+
+
+
+
+
+
+
+
+
+
+####
+shrimp-salmon
+tempura
+gamberi
+philadelphia
+salmone
+tobiko
+salsa teriyaki
+
+
+
+
+
+
+
+
+
+####
+suzuki-sukampi
+scampi
+foglia di shiso
+philadelphia
+branzino
+salsa yuzu
+wasabi
+caviale
+
+
+
+
+
+
+
+
+####
+sake-royal
+granchio
+avocado
+salmone
+maionese piccante
+tobiko
+
+
+
+
+
+
+
+
+
+
+####
+sake-pineapple
+ananas
+tempura
+gamberi
+salmone
+salsa teriyaki
+mandorle
+
+
+
+
+
+
+
+
+
+####
+shiso
+verdure
+tempura
+foglia di shiso
+farina di tapioca
+riso
+salsa di miso
+
+
+
+
+
+
+
+
+
+####
+sake tataki
+salmone
+sesamo
+salsa dello chef
+
+
+
+
+
+
+
+
+
+
+
+
+####
+maguro tataki
+tonno
+sesamo
+salsa dello chef
+
+
+
+
+
+
+
+
+
+
+
+
+####
+hamachi tataki
+ricciola
+pistacchio
+salsa ponzu
+
+
+
+
+
+
+
+
+
+
+
+
+####
+salmon tartar
+salmone
+avocado
+sesamo
+salsa dello chef
+
+
+
+
+
+
+
+
+
+
+
+####
+tuna tartar 
+tonno
+avocado
+sesamo
+salsa dello chef
+
+
+
+
+
+
+
+
+
+
+
+####
+natsu tartar
+gamberi
+salmone
+pomodoro
+avocado
+salsa dello chef
+
+
+
+
+
+
+
+
+
+
+####
+amaebi tartar
+gamberi
+salsa yuzu
+wasabi
+insalata
+
+
+
+
+
+
+
+
+
+
+
+####
+special karupatcho
+gamberi
+scampi
+salmone
+salsa ponzu
+
+
+
+
+
+
+
+
+
+
+
+####
+wagyu karupatcho
+manzo
+olio
+salsa ponzu
+
+
+
+
+
+
+
+
+
+
+
+
+####
+hamachi zukuri
+ricciola
+pomodoro
+wasabi
+salsa ponzu
+
+
+
+
+
+
+
+
+
+
+
+####
+sake zukuri
+salmone
+tobiko
+sesamo
+salsa ponzu
+
+
+
+
+
+
+
+
+
+
+
+####
+sake hanamaki
+riso
+salmone
+maionese piccante
+
+
+
+
+
+
+
+
+
+
+
+
+####
+maguro hanamaki
+riso
+tonno
+maionese piccante
+
+
+
+
+
+
+
+
+
+
+
+
+####
+sake futomaki
+riso
+salmone
+avocado
+granchio
+cetriolo
+
+
+
+
+
+
+
+
+
+
+####
+tekka futomaki
+riso
+tonno
+avocado
+granchio
+cetriolo
+
+
+
+
+
+
+
+
+
+
+####
+quaglia hanamaki
+riso
+salmone
+uova di quaglia
+erba cipollina
+salsa ponzu
+olio tartufato
+
+
+
+
+
+
+
+
+
+####
+kasai
+riso
+salmone
+philadelphia
+fragola
+
+
+
+
+
+
+
+
+
+
+
+####
+royal hanamaki
+riso
+salmone
+granchio
+maionese
+tobiko
+
+
+
+
+
+
+
+
+
+
+####
+rose hanamaki
+riso
+ricciola
+scampi
+avocado
+maionese piccante
+
+
+
+
+
+
+
+
+
+
+####
+s?mon no hara hanamaki
+riso
+salmone
+caviale
+
+
+
+
+
+
+
+
+
+
+
+
+####
+foie-gras hanamaki
+salmone
+riso
+gamberi
+foie gras
+
+
+
+
+
+
+
+
+
+
+
+####
+sake ikura hanamaki
+salmone
+riso
+uova di salmone
+
+
+
+
+
+
+
+
+
+
+
+
+####
+tobiko gunkan
+riso
+branzino
+uova di pesce volante
+
+
+
+
+
+
+
+
+
+
+
+
+####
+sake temaki
+alga nori
+salmone
+avocado
+formaggio
+
+
+
+
+
+
+
+
+
+
+
+####
+maguro temaki
+alga nori
+tonno
+avocado
+formaggio
+
+
+
+
+
+
+
+
+
+
+
+####
+astice temaki
+astice
+alga nori
+insalata
+pomodoro
+maionese
+tobiko
+
+
+
+
+
+
+
+
+
+####
+royal temaki
+alga nori
+granchio
+avocado
+maionese
+
+
+
+
+
+
+
+
+
+
+
+####
+california temaki
+alga nori
+granchio
+avocado
+cetriolo
+maionese
+tobiko
+
+
+
+
+
+
+
+
+
+####
+ebiten temaki
+alga nori
+gamberi
+insalata
+maionese
+salsa teriyaki
+
+
+
+
+
+
+
+
+
+
+####
+vegan temaki
+alga nori
+pomodoro
+avocado
+insalata
+cetriolo
+sesamo
+salsa di miso
+
+
+
+
+
+
+
+
+####
+oyako temaki
+alga nori
+salmone
+uova di salmone
+maionese
+foglia di shiso
+
+
+
+
+
+
+
+
+
+
+####
+sake roll
+riso
+alga nori
+salmone
+avocado
+formaggio
+sesamo
+
+
+
+
+
+
+
+
+
+####
+maguro roll
+riso
+alga nori
+tonno
+avocado
+formaggio
+sesamo
+
+
+
+
+
+
+
+
+
+####
+ebi ten
+riso
+alga nori
+gamberi
+insalata
+formaggio
+salsa teriyaki
+sesamo
+pasta kataifi
+
+
+
+
+
+
+
+####
+miura maki
+riso
+alga nori
+salmone
+tempura
+formaggio
+sesamo
+arachidi
+salsa teriyaki
+
+
+
+
+
+
+
+####
+rainbow
+riso
+alga nori
+salmone
+cetriolo
+formaggio
+avocado
+
+
+
+
+
+
+
+
+
+####
+california
+riso
+alga nori
+granchio
+gamberi
+avocado
+cetriolo
+maionese
+sesamo
+tobiko
+
+
+
+
+
+
+####
+vegan
+riso
+alga nori
+verdure
+sesamo
+salsa di miso
+mandorle
+
+
+
+
+
+
+
+
+
+####
+tori roll
+riso
+alga nori
+pollo
+spezie
+pane giapponese
+cetriolo
+sesamo
+maionese piccante
+
+
+
+
+
+
+
+####
+tiger roll
+riso
+alga nori
+tempura
+gamberi
+insalata
+salmone
+ikura
+
+
+
+
+
+
+
+
+####
+futomaki mix
+riso
+alga nori
+salmone
+insalata
+tobiko
+
+
+
+
+
+
+
+
+
+
+####
+yasai futo
+riso
+alga nori
+verdure
+tempura
+soya
+salsa di miso
+mandorle
+
+
+
+
+
+
+
+
+####
+astice roll
+riso
+alga nori
+astice
+avocado
+maionese
+pomodoro
+tobiko
+wasabi
+
+
+
+
+
+
+
+####
+royal crab roll
+riso
+alga nori
+granchio
+avocado
+maionese
+sesamo
+tobiko
+
+
+
+
+
+
+
+
+####
+mazara roll
+riso
+alga nori
+gamberi
+insalata
+avocado
+
+
+
+
+
+
+
+
+
+
+####
+alaska
+riso
+alga nori
+salmone
+salsa piccante
+erba cipollina
+tobiko
+
+
+
+
+
+
+
+
+
+####
+yume roll
+riso
+alga nori
+fiori di zucca
+gamberi
+zucchine
+maionese
+
+
+
+
+
+
+
+
+
+####
+scampi roll
+riso
+alga nori
+scampi
+avocado
+tobiko
+
+
+
+
+
+
+
+
+
+
+####
+hotate kai
+riso
+alga nori
+capesante
+maionese
+avocado
+tobiko
+mango
+sesamo
+salsa al mango
+
+
+
+
+
+
+####
+black ebi ten
+riso
+alga nori
+nero di seppia
+gamberi
+insalata
+tempura
+formaggio
+salsa teriyaki
+sesamo
+pasta kataifi
+
+
+
+
+
+####
+special ebi ten
+riso
+alga nori
+tempura
+gamberi
+formaggio
+insalata
+salmone
+pasta kataifi
+salsa teriyaki
+
+
+
+
+
+
+####
+salmon fume'
+riso
+alga nori
+salmone
+avocado
+pistacchio
+
+
+
+
+
+
+
+
+
+
+####
+vulcan roll
+riso
+alga nori
+salmone
+formaggio
+insalata
+sesamo
+tobiko
+maionese piccante
+
+
+
+
+
+
+
+####
+salmon cream cheese
+riso
+alga nori
+salmone
+formaggio
+avocado
+
+
+
+
+
+
+
+
+
+
+####
+tuna cream cheese
+riso
+alga nori
+tonno
+formaggio
+avocado
+
+
+
+
+
+
+
+
+
+
+####
+unagi roll
+riso
+alga nori
+anguilla
+sesamo
+avocado
+salsa kabayaki
+
+
+
+
+
+
+
+
+
+####
+pineapple roll 
+riso
+alga nori
+ananas
+tempura
+gamberi
+salmone
+salsa teriyaki
+mandorle
+
+
+
+
+
+
+
+####
+tropical tuna
+riso
+alga nori
+tonno
+avocado
+gamberi
+sesamo
+mango
+salsa al mango
+
+
+
+
+
+
+
+####
+maki fritto
+riso
+alga nori
+tempura
+salmone
+formaggio
+daikon
+salsa teriyaki
+arachidi
+
+
+
+
+
+
+
+####
+nido kataifi 
+riso
+alga nori
+pasta kataifi
+salmone
+
+
+
+
+
+
+
+
+
+
+
+####
+yaki udon
+spaghetti
+gamberi
+verdure
+soya
+
+
+
+
+
+
+
+
+
+
+
+####
+yaki soba
+spaghetti
+pesce bianco
+verdure
+uova
+
+
+
+
+
+
+
+
+
+
+
+####
+amaebi ramen
+spaghetti
+gamberi
+verdure
+
+
+
+
+
+
+
+
+
+
+
+
+####
+sake meshi
+riso
+salmone
+verdure
+uova
+
+
+
+
+
+
+
+
+
+
+
+####
+yasai meshi
+riso
+uova
+verdure
+
+
+
+
+
+
+
+
+
+
+
+
+####
+ebi meshi
+riso
+gamberi
+verdure
+uova
+
+
+
+
+
+
+
+
+
+
+
+####
+sake-foie-gras nigiri
+riso
+salmone
+foie gras
+
+
+
+
+
+
+
+
+
+
+
+
+####
+tori teriyaki
+pollo
+sesamo
+soya
+
+
+
+
+
+
+
+
+
+
+
+
+####
+manzo asparagi
+manzo
+asparagi
+salsa dello chef
+
+
+
+
+
+
+
+
+
+
+
+
+####
+yaki asparagus
+asparagi
+salsa di miso
+sesamo
+
+
+
+
+
+
+
+
+
+
+
+
+####
+chicken katsudon
+pollo
+uova
+riso
+
+
+
+
+
+
+
+
+
+
+
+
+####
+tori udon
+spaghetti
+pollo
+verdure
+
+
+
+
+
+
+
+
+
+
+
+
+####
+yasai temaki
+alga nori
+cetriolo
+avocado
+
+
+
+
+
+
+
+
+
+
+
+
+####
+sushi jo
+riso
+salmone
+tobiko
+
+
+
+
+
+
+
+
+
+
+
+
+####
+sake avocado
+riso
+salmone
+avocado
+
+
+
+
+
+
+
+
+
+
+
+
+####
+philadelphia
+riso
+salmone
+philadelphia
+
+
+
+
+
+
+
+
+
+
+
+
+####
+sake mango
+riso
+salmone
+mango
+
+
+
+
+
+
+
+
+
+
+
+
+####
+ebitem
+riso
+gamberi
+granchio
+
+
+
+
+
+
+
+
+
+
+
+
+####
+special ebitem
+riso
+gamberi
+philadelphia
+
+
+
+
+
+
+
+
+
+
+
+
+####
+yasai
+riso
+avocado
+cetriolo
+
+
+
+
+
+
+
+
+
+
+
+
+####
+geisha
+riso
+salmone
+tonno
+granchio
+
+
+
+
+
+
+
+
+
+
+
+####
+tartar hayashi
+tonno
+tempura
+uova di pesce volante
+mango
+
+
+
+
+
+
+
+
+
+
+
+####
+ebi tempura maki
+riso
+alga nori
+gamberi
+tempura
+tobiko
+sesamo
+
+
+
+
+
+
+
+
+
+####
+sake ebiten uramak
+riso
+alga nori
+gamberi
+sesamo
+tempura
+salmone
+
+
+
+
+
+
+
+
+
+####
+avocado ebiten uramaki
+riso
+alga nori
+gamberi
+sesamo
+avocado
+
+
+
+
+
+
+
+
+
+
+####
+california classic
+riso
+alga nori
+salmone
+avocado
+cetriolo
+surimi
+sesamo
+tobiko
+
+
+
+
+
+
+
+####
+soft shell crab maki
+riso
+alga nori
+granchio
+tempura
+tobiko
+sesamo
+
+
+
+
+
+
+
+
+
+####
+sake teppayaki maki 
+riso
+alga nori
+salmone
+philadelphia
+sesamo
+tobiko
+
+
+
+
+
+
+
+
+
+####
+sake philadelphia maki 
+riso
+alga nori
+salmone
+philadelphia
+sesamo
+
+
+
+
+
+
+
+
+
+
+####
+sake avocado maki
+riso
+alga nori
+salmone
+avocado
+sesamo
+
+
+
+
+
+
+
+
+
+
+####
+spicy tuna roll
+riso
+alga nori
+tonno
+tobiko
+sesamo
+spezie
+
+
+
+
+
+
+
+
+
+####
+spicy salmon roll
+riso
+alga nori
+salmone
+tobiko
+sesamo
+spezie
+
+
+
+
+
+
+
+
+
+####
+rainbow roll
+riso
+alga nori
+salmone
+avocado
+surimi
+sesamo
+
+
+
+
+
+
+
+
+
+####
+avocado spider maki
+riso
+alga nori
+granchio
+avocado
+
+
+
+
+
+
+
+
+
+
+
+####
+sake sakura maki
+riso
+alga nori
+salmone
+avocado
+tobiko
+gamberi
+surimi
+
+
+
+
+
+
+
+
+####
+amondo uramaki
+riso
+alga nori
+sesamo
+mandorle
+philadelphia
+avocado
+salmone
+
+
+
+
+
+
+
+
+####
+sake dragon uramaki
+riso
+alga nori
+sesamo
+salmone
+philadelphia
+avocado
+patate
+
+
+
+
+
+
+
+
+####
+hotate uramaki
+riso
+alga nori
+sesamo
+capesante
+wasabi
+cetriolo
+gamberi
+pinoli
+zenzero
+
+
+
+
+
+
+####
+maguro tataki uramaki 
+riso
+alga nori
+sesamo
+tonno
+cetriolo
+gamberi
+avocado
+zenzero
+
+
+
+
+
+
+
+####
+sake kawa maki
+riso
+alga nori
+sesamo
+salmone
+avocado
+gamberi
+surimi
+
+
+
+
+
+
+
+
+####
+vulcan urmaki
+riso
+alga nori
+sesamo
+tonno
+tempura
+spezie
+
+
+
+
+
+
+
+
+
+####
+unagi uramaki
+riso
+alga nori
+sesamo
+anguilla
+
+
+
+
+
+
+
+
+
+
+
+####
+maguro uramaki
+riso
+alga nori
+sesamo
+tonno
+spezie
+
+
+
+
+
+
+
+
+
+
+####
+suzuki uramakia
+riso
+alga nori
+sesamo
+gamberi
+avocado
+surimi
+spigola
+
+
+
+
+
+
+
+
+####
+crispy uramaki
+riso
+alga nori
+sesamo
+gamberi
+avocado
+spigola
+
+
+
+
+
+
+
+
+
+####
+fragola maki
+riso
+alga nori
+sesamo
+salmone
+philadelphia
+fragola
+
+
+
+
+
+
+
+
+
+####
+sake avocado salad
+insalata
+salmone
+avocado
+
+
+
+
+
+
+
+
+
+
+
+
+####
+maguro su
+tonno
+alga nori
+salsa ponzu
+
+
+
+
+
+
+
+
+
+
+
+
+####
+sake su
+salmone
+alga nori
+salsa ponzu
+
+
+
+
+
+
+
+
+
+
+
+
+####
+salmon tartare
+salmone
+insalata
+salsa ponzu
+
+
+
+
+
+
+
+
+
+
+
+
+####
+tuna tartare
+tonno
+insalata
+salsa ponzu
+
+
+
+
+
+
+
+
+
+
+
+
+####
+mix tartare
+salmone
+insalata
+salsa ponzu
+tonno
+
+
+
+
+
+
+
+
+
+
+
+####
+tartare special sun
+salmone
+avocado
+gamberi
+pomodoro
+salsa ponzu
+
+
+
+
+
+
+
+
+
+
+####
+temaki sake
+riso
+alga nori
+salmone
+avocado
+maionese
+
+
+
+
+
+
+
+
+
+
+####
+age tori temaki
+riso
+alga nori
+pollo
+cetriolo
+salsa piccante
+
+
+
+
+
+
+
+
+
+
+####
+tobiko temaki
+riso
+alga nori
+tobiko
+surimi
+avocado
+maionese
+
+
+
+
+
+
+
+
+
+####
+sake rose temaki
+riso
+alga nori
+soya
+salmone
+avocado
+maionese
+
+
+
+
+
+
+
+
+
+####
+green dragon roll
+riso
+tempura
+gamberi
+insalata
+maionese
+avocado
+salsa teriyaki
+crunch
+
+
+
+
+
+
+
+####
+crunch tuna roll
+riso
+tonno
+avocado
+arachidi
+maionese
+
+
+
+
+
+
+
+
+
+
+####
+sandwich
+salmone
+avocado
+philadelphia
+crunch
+
+
+
+
+
+
+
+
+
+
+
+####
+ura love
+riso
+surimi
+avocado
+philadelphia
+salmone
+
+
+
+
+
+
+
+
+
+
+####
+sushi sun roll
+salmone
+riso
+avocado
+philadelphia
+menta
+mandorle
+salsa teriyaki
+
+
+
+
+
+
+
+
+####
+scampo rainbow
+riso
+scampi
+fagiolini
+salmone
+tonno
+avocado
+tobiko
+salsa piccante
+
+
+
+
+
+
+
+####
+avocado tuna
+riso
+tonno
+avocado
+philadelphia
+salsa piccante
+insalata
+salsa teriyaki
+
+
+
+
+
+
+
+
+####
+capesante roll
+riso
+surimi
+avocado
+capesante
+salsa teriyaki
+
+
+
+
+
+
+
+
+
+
+####
+exotic ebiten
+riso
+tempura
+gamberi
+insalata
+philadelphia
+salsa al mango
+mango
+
+
+
+
+
+
+
+
+####
+special tuna
+riso
+avocado
+philadelphia
+tonno
+pistacchio
+rucola
+
+
+
+
+
+
+
+
+
+####
+rosa futomaki
+salmone
+riso
+gamberi
+insalata
+philadelphia
+fagiolini
+tobiko
+soya
+pistacchio
+
+
+
+
+
+
+####
+hana sun
+salmone
+cetriolo
+rucola
+gamberi
+salsa ponzu
+
+
+
+
+
+
+
+
+
+
+####
+sake gunkan
+alga nori
+salmone
+maionese
+
+
+
+
+
+
+
+
+
+
+
+
+####
+spicy salmon gunkan
+alga nori
+salmone
+maionese
+tabasco
+
+
+
+
+
+
+
+
+
+
+
+####
+tuna gunkan
+alga nori
+tonno
+maionese
+
+
+
+
+
+
+
+
+
+
+
+
+####
+spicy tuna gunkan
+alga nori
+tonno
+maionese
+tabasco
+
+
+
+
+
+
+
+
+
+
+
+####
+cetriolo salmone gunkan
+alga nori
+riso
+cetriolo
+salmone
+
+
+
+
+
+
+
+
+
+
+
+####
+cetriolo tonno gunkan
+alga nori
+riso
+cetriolo
+tonno
+
+
+
+
+
+
+
+
+
+
+
+####
+nabe yaki noodles
+spaghetti
+uova
+verdure
+tempura
+gamberi
+
+
+
+
+
+
+
+
+
+
+####
+niku noodles
+spaghetti
+manzo
+verdure
+
+
+
+
+
+
+
+
+
+
+
+
+####
+tori ramen
+spaghetti
+pollo
+verdure
+uova
+
+
+
+
+
+
+
+
+
+
+
+####
